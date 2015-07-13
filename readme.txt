@@ -35,8 +35,10 @@ For more info, visit http://wplabels/wplb-widget-total
 
 == Screenshots ==
 
-1. Custom post widget
-2. Custom taxonomy widget
-3. Custom post featured widget
-4. Image widget
-3. Video widget
+1. Frontend and Backend custom post type widget 
+2. Frontend and Backend custom taxonomy widget 
+3. Frontend and Backend upload image widget
+4. Frontend and Backend video widget
+5. Frontend and Backend Facebook Like Box widget
+5. Backend Social link widget
+5. Backend custom post featured widget
