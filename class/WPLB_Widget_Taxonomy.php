@@ -97,7 +97,7 @@
                 'class' => 'float-left',
              ),
             'display' => array(
-              'label'   => __('Order', 'wplb'),
+              'label'   => __('Display', 'wplb'),
               'type'    => 'select',
               'options' => array(
                 'list' => __('Display as list','wplb'),
