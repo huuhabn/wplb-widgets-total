@@ -5,7 +5,7 @@ Tested up to: 4.2.2
 Stable tag: 0.6.1
 License: GPLv2
 
-Basic sidebar widget functionality. Widgets include: Custom post, Custom taxonomy, Image with upload button, Video (YouTube, Vimeo), Custom Post featured, Socials link, Facebook like box.
+A collection of widgets for displaying Custom post, Custom taxonomy, Image with upload button, Video (YouTube, Vimeo), Custom Post featured, Socials link, Facebook like box in your website sidebars.
 
 == Description ==
 
@@ -76,3 +76,6 @@ For more info, visit http://wplabels/wplb-widgets-total-pro
 5. Frontend and Backend Facebook Like Box widget
 5. Backend Social link widget
 5. Backend custom post featured widget
+
+== Changelog ==
+== Frequently Asked Questions ==
