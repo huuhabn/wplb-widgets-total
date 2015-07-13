@@ -1,4 +1,4 @@
-=== WPLB Widget Total ===
+=== WPLB Widgets Total ===
 Tags: Custom post, Custom taxonomy, Image, Video (YouTube, Vimeo), Post featured, Socials, Facebook Like Box.
 Requires at least: 3.0
 Tested up to: 4.2.2
